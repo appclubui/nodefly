@@ -1,10 +1,10 @@
 {
   "name": "node-ws",
-  "version": "1.0.0",
+  "version": "1.05.22",
   "description": "Node.js Server",
   "main": "index.js",
-  "author": "eoovve",
-  "repository": "https://github.com/eoovve/node-ws",
+  "author": "appclubui",
+  "repository": "https://github.com/appclubui/nodefly.git",
   "license": "MIT",
   "private": false,
   "scripts": {
